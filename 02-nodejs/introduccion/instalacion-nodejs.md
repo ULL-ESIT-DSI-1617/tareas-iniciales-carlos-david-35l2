@@ -7,7 +7,7 @@ Siga los siguientes pasos para instalar nodeJS,
 
 ![](/assets/nodeJS_01_Install.png)
 
-1. Una vez descargado procedemos a la instalación siguiendo los pasos de las imágenes siguientes,
+ 3. Una vez descargado procedemos a la instalación siguiendo los pasos de las imágenes siguientes,
 
 ![](/assets/nodeJS_02_Install.png)
 
@@ -21,7 +21,7 @@ Siga los siguientes pasos para instalar nodeJS,
 
 ![](/assets/nodeJS_07_Install.png)
 
-4. Para comprobar que se ha instalado correctamente, ejecutamos en una consola el siguiente comando,
+1. Para comprobar que se ha instalado correctamente, ejecutamos en una consola el siguiente comando,
 
 $ node -v
 
