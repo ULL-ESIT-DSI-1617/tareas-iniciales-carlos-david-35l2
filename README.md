@@ -1,3 +1,22 @@
+---------------------------------LINKS------------------------------------------------------
+
+Páginas individuales github:
+
+https://alu0100851236.github.io/
+
+https://charly-poket.github.io/
+
+Enlace al libro desplegado:
+
+Enlace página de la asignatura:
+https://campusvirtual.ull.es/1617/course/view.php?id=1136
+
+enlace características de la práctica:
+https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html
+
+---------------------------------LINKS------------------------------------------------------
+
+
 # Tareas iniciales
 
 ### Requisitos {#requisitos}
