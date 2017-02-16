@@ -2,7 +2,11 @@
 
 ## Práctica Tareas iniciales
 
-* [Introduction](README.md)
+* [README](README.md)
+
+## Introducción
+
+* [Requisitos](introduccion/requisitos.md)
 
 ## 01 Como enviar las tareas
 
@@ -29,10 +33,13 @@
 ## 05 c9
 
 * [Introducción](05-c9/introduccion.md)
+* [Abrir cuenta en c9](05-c9/abrir-cuenta-en-c9.md)
+* [Configuración de GitHub](05-c9/configuracion-de-github.md)
 
 ## 06 MarkDown y GitBook
 
 * [Introducción](06-markdown-y-gitbook/introduccion.md)
+* [Instalacion de Gitbook](06-markdown-y-gitbook/instalacion-de-gitbook.md)
 
 ## 07 Pandoc
 

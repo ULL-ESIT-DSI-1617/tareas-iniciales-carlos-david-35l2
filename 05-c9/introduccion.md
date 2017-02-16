@@ -1,4 +1,4 @@
-Introducción.
+# ![](/assets/original.png)
 
-El c9
+c9 se trata de un IDE multilenguaje en la nube al que accedemos desde nuestro navegador.
 
